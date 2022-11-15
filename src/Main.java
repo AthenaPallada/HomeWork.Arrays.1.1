@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         //1 задача
-        System.out.println("1 задача");
         int[] weight = new int [3];
         weight[0] = 1;
         weight[1] = 2;
